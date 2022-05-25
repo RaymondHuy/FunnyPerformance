@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31410.357
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunnyPerformance", "FunnyPerformance\FunnyPerformance.csproj", "{5D06299A-C4D8-4C00-9925-515795F04EB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunnyPerformance", "FunnyPerformance\FunnyPerformance.csproj", "{5D06299A-C4D8-4C00-9925-515795F04EB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMediatr", "DemoMediatr\DemoMediatr.csproj", "{8CB9E320-3C54-4DD2-A13C-32BFB1A23579}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{5D06299A-C4D8-4C00-9925-515795F04EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D06299A-C4D8-4C00-9925-515795F04EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D06299A-C4D8-4C00-9925-515795F04EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CB9E320-3C54-4DD2-A13C-32BFB1A23579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CB9E320-3C54-4DD2-A13C-32BFB1A23579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CB9E320-3C54-4DD2-A13C-32BFB1A23579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CB9E320-3C54-4DD2-A13C-32BFB1A23579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
